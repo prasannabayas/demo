@@ -1,0 +1,8 @@
+mountpoints:
+  /:
+    url: "https://author-p154556-e1691202.adobeaemcloud.com/bin/prasannabayas/demo/main"
+    type: "markup"
+    suffix: ".html"
+folders:
+  /products/: /products/default
+  /workout-exercise-guidance/: /workout-exercise-guidance/default
