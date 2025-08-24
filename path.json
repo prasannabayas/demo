@@ -1,20 +1,5 @@
 {
   "mappings": [
-    "/content/demo/:/",
-    "/content/demo/configuration:/.helix/config.json",
-    "/content/demo/headers:/.helix/headers.json",
-    "/content/demo/metadata:/metadata.json",
-    "/content/demo/placeholders:/placeholders.json",
-    "/content/demo.resource/enrichment/enrichment.json:/enrichment/enrichment.json",
-    "/content/dam/demo/documents/:/documents/",
-    "/content/demo/workout-exercise-guidance/exercises:/workout-exercise-guidance/exercises",
-    "/content/demo/resource-center/free-wellness-and-fitness-mini-courses/mini-courses/:/resource-center/free-wellness-and-fitness-mini-courses/mini-courses.json",
-    "/content/demo/resource-center/free-wellness-and-fitness-mini-courses/:/resource-center/free-wellness-and-fitness-mini-courses",
-    "/content/demo/resource-center/free-health-nutrition-guides/health-nutrition-guides/:/resource-center/free-health-nutrition-guides/health-nutrition-guides.json",
-    "/content/demo/resource-center/free-health-nutrition-guides/:/resource-center/free-health-nutrition-guides"
-  ],
-  "includes": [
-    "/content/demo/",
-    "/content/dam/demo/"
+    "/content/demo/:/"
   ]
 }
