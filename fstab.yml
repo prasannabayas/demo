@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p154556-e1691202.adobeaemcloud.com/bin/prasannabayas/demo/main"
+    url: "https://author-p154556-e1691202.adobeaemcloud.com/bin/franklin.delivery/prasannabayas/demo/main"
     type: "markup"
     suffix: ".html"
 folders:
